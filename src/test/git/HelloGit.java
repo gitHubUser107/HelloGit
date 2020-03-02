@@ -13,7 +13,7 @@ public class HelloGit {
 	}
 
 	private static void sayHelloGit() {
-		// TODO Auto-generated method stub
+		
 		System.out.println("Hello Git!");		
 	}
 
