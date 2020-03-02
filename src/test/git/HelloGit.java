@@ -3,7 +3,7 @@ package test.git;
 /**
  * 
  * @author Paul
- * testing commit
+ * testing commit to remote repository
  */
 public class HelloGit {
 	
