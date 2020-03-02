@@ -1,6 +1,12 @@
 package test.git;
 
+/**
+ * 
+ * @author Paul
+ * testing commit
+ */
 public class HelloGit {
+	
 	
 	public static void main(String [] args) {
 		sayHelloGit();
