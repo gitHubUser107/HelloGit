@@ -11,9 +11,8 @@ public class HelloGit {
 		sayHelloGit();
 	}
 
-	private static void sayHelloGit() {
-		
-		System.out.println("Hello Git!");		
+	private static void sayHelloGit() {		
+		System.out.println("Hello Git User!");		
 	}
 
 }
