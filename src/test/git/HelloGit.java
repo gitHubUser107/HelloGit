@@ -5,8 +5,7 @@ package test.git;
  * @author Paul
  * testing commit to remote repository
  */
-public class HelloGit {
-	
+public class HelloGit {	
 	
 	public static void main(String [] args) {
 		sayHelloGit();
