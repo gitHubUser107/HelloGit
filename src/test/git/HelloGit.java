@@ -7,12 +7,10 @@ package test.git;
  */
 public class HelloGit {	
 	
+	static HelloGitHelper helloGitHelper = new HelloGitHelper();
+	
 	public static void main(String [] args) {
-		sayHelloGit();
-	}
-
-	private static void sayHelloGit() {		
-		System.out.println("Hello Git User!");		
+		helloGitHelper.sayHelloGit();	
 	}
 
 }
