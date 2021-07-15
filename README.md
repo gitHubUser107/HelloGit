@@ -1,3 +1,4 @@
 # HelloGit
 setup git on new laptop. 
-Let thse represent change by another user
+
+Let this represent change by another developer
