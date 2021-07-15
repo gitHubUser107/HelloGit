@@ -7,7 +7,7 @@ public class HelloGitHelper {
 	private static final Logger logger = Logger.getLogger(HelloGitHelper.class.getName());
 	
 	public void sayHelloGit() {
-		logger.info("Hello Git User.... Do you like java 13 ?");		
+		logger.info("Hello Git User.... Do you like java 1.5 ?");		
 	}
 	
 	public void sayGreetingsGit() {
