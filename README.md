@@ -1,3 +1,4 @@
 # HelloGit
-setup git on new laptop. 
-Let thse represent change by another user
+setup Git on new laptop. 
+
+Just another change to the read me file
